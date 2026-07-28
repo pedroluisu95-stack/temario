@@ -1,6 +1,6 @@
 <?php
 
-//ENUNCIADO
+//ENUNCIADO: Tipos Nulos y Vacíos
 
 /* 
 Qué hacer:Declara una variable llamada $token_sesion 

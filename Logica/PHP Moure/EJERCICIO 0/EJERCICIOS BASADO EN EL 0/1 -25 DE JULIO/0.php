@@ -1,6 +1,6 @@
 <?php
 
-//ENUNCIADO
+//ENUNCIADO: Mi Perfil de Programador
 
 /*
 Qué hara esto: Declara variables que almacenen la
@@ -26,9 +26,8 @@ $verdad = true;
 
 // Impresión de resultados combinando texto y variables con el punto (.)
 
-echo "Hola, mi nombre es " . $nombre . ".!\n"
-echo "tengo" . $edad . " años.!\n"
-echo "mido " .$ altura . " y es " . $verdad . "que estoy aprendiendo PHP!\n"
-
+echo "Hola, mi nombre es " . $nombre . ".!\n";
+echo "tengo" . $edad . " años.!\n";
+echo "mido " .$altura . " y es " . $verdad . "que estoy aprendiendo PHP!\n";
 
 ?>

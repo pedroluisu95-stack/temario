@@ -2,7 +2,7 @@
 
 //https://www.php.net
 
-#Comentarios
+//Comentarios
 
 //Comentario de una sola linea,doble barra (//)
 
@@ -17,8 +17,8 @@ $nombre = "Pedro";
 
 //Constante
 
-const NOMBRE = "Zlata"
-const URL_OFFICIAL = "https://www.php.net"
+const NOMBRE = "Zlata";
+const URL_OFFICIAL = "https://www.php.net";
 
 //1. Creación de variables con tipos de Datos primitivos:
 

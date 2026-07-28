@@ -1,6 +1,6 @@
 <?php
 
-//ENUNCIADO
+//ENUNCIADO: Constantes de Configuración
 
 /*
 
